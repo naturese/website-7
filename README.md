@@ -2,7 +2,7 @@
 
 This is the first iteration of creating a website for Zen Cash that utilizes a static site generator. It is based on past work but will evolve over time to leverage new technologies.
 
-## Getting Started
+## Getting Started off
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
@@ -12,7 +12,7 @@ See [Jekyll Installation documentation](https://jekyllrb.com/docs/installation/)
 
 `gem install jekyll bundler`
 
-### Installing
+### Instalation
 
 Navigate to the local directory where the repo was installed
 
